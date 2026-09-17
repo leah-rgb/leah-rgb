@@ -10,14 +10,14 @@ my name is Leah and i love to be creative and make things even if i don't like t
 - hobbies: i like drawing, making video edits, i love listening to music, i like dancing even tho i'm not very good at it and i also like playing games, and also i have started a new hobby which is making jewelry and keychains for family and friends.
 
 my skills that i have gained from the courses i have done:
-.digital design 
-.animation
-.canva
-.WIX website developer
-.adobe photoshop
-.blender
-.3D model creation
-.project managment
+- digital design 
+- animation
+- canva
+- WIX website developer
+- adobe photoshop
+- blender
+- 3D model creation
+- project managment
 
 
 
