@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hiiiii 👋
+
 my name is Leah and i love to be creative and make things even if i don't like the process and i always try to improve and in the future i hope to become a graphic designer
 
 - 😄 Pronouns: she/her 
@@ -20,12 +21,14 @@ my skills that i have gained from the courses i have done:
 - project managment
 
 
+- How to reach me: you can message me though email: 18leahor@gmail.com
+
 
 <!--
 **leah-rgb/leah-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - ⚡ Fun fact: ...
 -->
