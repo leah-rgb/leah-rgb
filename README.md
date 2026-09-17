@@ -1,6 +1,6 @@
 ## Hiiiii 👋
 
-my name is Leah, and i love to be creative, make things even if i don't like the process and i always try to improve and in the future i hope to become a graphic designer, at the moment i am looking for a remote job that i can do along side college. but i also volunteer at Farplace animal rescue. 
+my name is Leah, and i love to be creative, make things even if i don't like the process and i always try to improve and in the future i hope to become a graphic designer, at the moment i am looking for a remote job that i can do along side college. But i also volunteer at Farplace animal rescue. 
 
 - 😄 Pronouns: she/her 
 
