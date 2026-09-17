@@ -1,5 +1,7 @@
 ## Hi there 👋
-my name is Leah and in the future i hope to become a graphic designer
+my name is Leah and i love to be creative and make things even if i don't like the process and i always try to improve and in the future i hope to become a graphic designer
+
+- 😄 Pronouns: she/her 
 
 - 🔭 I’m currently working on creating my own website and portfolio 
 
@@ -7,12 +9,23 @@ my name is Leah and in the future i hope to become a graphic designer
 
 - hobbies: i like drawing, making video edits, i love listening to music, i like dancing even tho i'm not very good at it and i also like playing games, and also i have started a new hobby which is making jewelry and keychains for family and friends.
 
+my skills that i have gained from the courses i have done:
+.digital design 
+.animation
+.canva
+.WIX website developer
+.adobe photoshop
+.blender
+.3D model creation
+.project managment
+
+
+
 <!--
 **leah-rgb/leah-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: she/her 
 - ⚡ Fun fact: ...
 -->
